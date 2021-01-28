@@ -32,7 +32,7 @@
     "bootstrap.native": "^2.0.26",
     "color": "^3.1.2",
     "cropperjs": "^1.5.1",
-    "electron": "^9.1.0",
+    "electron": "^9.4.0",
     "extract-zip": "^1.6.6",
     "js-beautify": "^1.10.0",
     "jstoxml": "^1.5.0",
